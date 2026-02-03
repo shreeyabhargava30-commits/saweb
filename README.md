@@ -1,5 +1,5 @@
-# saweb
-<!DOCTYPE html>
+
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -25,7 +25,7 @@ body {
 /* Floating Hearts */
 .heart {
   position: absolute;
-  font-size: 18px;
+  font-size: 25px;
   animation: floatUp 8s linear infinite;
   opacity: 0.7;
 }
